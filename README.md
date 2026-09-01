@@ -81,7 +81,8 @@ I bring that same precision to building solid web applications.
 </p>
 
 <div align="center">
-  <sub>Thanks for visiting! 🐱 Feel free to reach out anytime.</sub>
+  <b>✦ Thanks for visiting! 🐱 ✦</b><br/>
+  <sub>Feel free to reach out anytime.</sub>
 </div>
 
 <div align="center">
