@@ -24,7 +24,7 @@ paleta lilas:#7c3aed, #1d4ed8
   <em>Open to new opportunities</em>
 </div>
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=TanaraCavalcante&label=Profile+Views&color=0284c7&style=flat-square"/>
 </p>
 
@@ -42,6 +42,8 @@ I bring that same precision to building solid web applications.
 - 🌱 Going deeper on **Laravel**, REST APIs — and exploring **C#**
 - 🧩 I enjoy solving real-world problems with well-structured code
 - 🌍 Originally from Brazil, growing in Italy's tech scene
+
+<br clear="right"/>
 
 ---
 
