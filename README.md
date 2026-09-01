@@ -22,9 +22,15 @@ Here are some ideas to get you started:
   <em>Open to new opportunities</em>
 </div>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=TanaraCavalcante&label=Profile+Views&color=0284c7&style=flat-square"/>
+</p>
+
 ---
 
 ### 👩‍💻 About me
+
+<img align="right" alt="Coding" width="340" src="https://i.pinimg.com/originals/34/fb/b9/34fbb9aa7bfeb8df98412067d64c2029.gif"/>
 
 I'm a Backend Developer focused on **PHP & Laravel**, based in Italy.
 My background in architecture and urban planning trained me to think in systems —
@@ -71,6 +77,11 @@ I bring that same precision to building solid web applications.
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
+---
+
+<div align="center">
+  <sub>Thanks for visiting! 🐱 Feel free to reach out anytime.</sub>
+</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:1d4ed8&height=100&section=footer" width="100%"/>
