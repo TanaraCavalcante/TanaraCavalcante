@@ -14,9 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:1d4ed8&height=180&section=header&text=Tanara%20Cavalcante&fontSize=48&fontColor=ffffff&desc=Backend%20Developer%20%C2%B7%20PHP%20%26%20Laravel&descSize=20&descAlignY=75&animation=fadeIn" width="100%"/>
-
+ <img src="header.svg" width="100%"/>
 </div>
 
 <div align="center">
@@ -54,15 +52,6 @@ I bring that same precision to building solid web applications.
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=TanaraCavalcante&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  &nbsp;
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanaraCavalcante&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
-
----
 
 ### 📬 Let's connect
 
