@@ -34,11 +34,11 @@ paleta lilas:#7c3aed, #1d4ed8
 
 <img align="right" alt="Coding" width="340" src="https://i.pinimg.com/originals/34/fb/b9/34fbb9aa7bfeb8df98412067d64c2029.gif"/>
 
-I'm a Backend Developer focused on **PHP & Laravel**, based in Italy.
+I'm a web Developer focused on backend with **PHP & Laravel**, based in Italy.
 My background in architecture and urban planning trained me to think in systems —
 I bring that same precision to building solid web applications.
 
-- 🔭 Currently building personal projects and **open to new backend opportunities**
+- 🔭 Currently building personal projects and **open to new opportunities**
 - 🌱 Going deeper on **Laravel**, REST APIs — and exploring **C#**
 - 🧩 I enjoy solving real-world problems with well-structured code
 - 🌍 Originally from Brazil, growing in Italy's tech scene
