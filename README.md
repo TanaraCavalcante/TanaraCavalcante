@@ -11,6 +11,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+paleta lilas:#7c3aed, #1d4ed8
 -->
 
 <div align="center">
@@ -77,12 +79,11 @@ I bring that same precision to building solid web applications.
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
----
 
 <div align="center">
   <sub>Thanks for visiting! 🐱 Feel free to reach out anytime.</sub>
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:1d4ed8&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1d4ed8,100:0284c7&height=100&section=footer" width="100%"/>
 </div>
