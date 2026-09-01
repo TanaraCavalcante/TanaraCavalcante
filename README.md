@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   <strong>📍 Tuscany, Italy &nbsp;·&nbsp; 🇧🇷 Brazilian dev building in Europe</strong><br/>
-  <em>Open to new backend opportunities</em>
+  <em>Open to new opportunities</em>
 </div>
 
 ---
